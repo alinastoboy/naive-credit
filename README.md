@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/alinastoboy/naive-credit.svg?branch=master)](https://travis-ci.org/alinastoboy/naive-credit)
